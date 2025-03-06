@@ -1,0 +1,362 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.215659,
+                    49.1425428
+                ]
+            },
+            "properties": {
+                "address": "Inselhotel",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 5
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 7
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 20
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 17
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 10
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 8
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.218148,
+                    49.142083
+                ]
+            },
+            "properties": {
+                "address": "Rathausplatz Kaiserstraße",
+                "popupContent": "This is where the Rockies play!",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 3
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 5
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 10
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 14
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 21
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 22
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 14
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 7
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.219355,
+                    49.142553
+                ]
+            },
+            "properties": {
+                "address": "Marktplatz/Falkenstraße",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 2
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 4
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 8
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 20
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 10
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.220677,
+                    49.142920
+                ]
+            },
+            "properties": {
+                "address": "Hafenmarkt",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 1
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 3
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 6
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 9
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 6
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.219348,
+                    49.141158
+                ]
+            },
+            "properties": {
+                "address": "Fleinerstraße/Kilianstraße",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 1
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 3
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 6
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 9
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 6
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.218672,
+                    49.140218
+                ]
+            },
+            "properties": {
+                "address": "Stadtgalerie",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 1
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 3
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 6
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 9
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 6
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.219084,49.139386
+                ]
+            },
+            "properties": {
+                "address": "Fleinerstraße/Götzenturmstraße",
+                "count": [
+                    {
+                        "time": "2025-02-11T00:00:00",
+                        "count": 1
+                    },
+                    {
+                        "time": "2025-02-11T03:00:00",
+                        "count": 3
+                    },
+                    {
+                        "time": "2025-02-11T06:00:00",
+                        "count": 6
+                    },
+                    {
+                        "time": "2025-02-11T09:00:00",
+                        "count": 9
+                    },
+                    {
+                        "time": "2025-02-11T12:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T15:00:00",
+                        "count": 15
+                    },
+                    {
+                        "time": "2025-02-11T18:00:00",
+                        "count": 18
+                    },
+                    {
+                        "time": "2025-02-11T21:00:00",
+                        "count": 12
+                    },
+                    {
+                        "time": "2025-02-11T23:59:00",
+                        "count": 6
+                    }
+                ]
+            }
+        }
+    ]
+}
